@@ -31,7 +31,7 @@
   <test_depend>std_msgs</test_depend>
   <test_depend>rosunit</test_depend>
   <test_depend>std_srvs</test_depend>
-  <test_depend>gacro_ros</test_depend>
+  <test_depend>gazro_ros</test_depend>
   <test_depend>xacro</test_depend>
 
   <export>
