@@ -49,7 +49,9 @@ install(FILES ackermann_steering_controller_plugins.xml
 
 if (CATKIN_ENABLE_TESTING)
   find_package(catkin REQUIRED COMPONENTS
+    controller_interface
     controller_manager
+    diff_drive_controller
     gazebo_ros
     geometry_msgs
     hardware_interface
