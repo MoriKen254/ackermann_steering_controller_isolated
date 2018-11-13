@@ -23,10 +23,10 @@
   <depend>tf</depend>
 
   <build_depend>pluginlib</build_depend>
-  <build_depend>urdf_parser</build_depend>
+  <build_depend>urdf_geometry_parser</build_depend>
 
   <exec_depend>pluginlib</exec_depend>
-  <exec_depend>urdf</exec_depend>
+  <exec_depend>urdf_geometry_parser</exec_depend>
 
   <test_depend>controller_manager</test_depend>
   <test_depend>gazebo_ros</test_depend>

@@ -20,7 +20,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   std_srvs
   tf
-  urdf_parser
+  urdf_geometry_parser
   xacro
 )
 
