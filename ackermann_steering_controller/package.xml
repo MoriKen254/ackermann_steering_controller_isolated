@@ -2,7 +2,7 @@
 <package format="2">
   <name>ackermann_steering_controller</name>
   <version>0.1.0</version>
-  <description>Controller for a steer drive mobile base.</description>
+  <description>Controller for a ackermann steering drive mobile base.</description>
   <maintainer email="p595201m@mail.kyutech.jp">Masaru Morita</maintainer>
 
   <license>BSD</license>
