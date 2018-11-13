@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(four_wheel_steering_controller)
 
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+
 find_package(catkin REQUIRED COMPONENTS
   controller_interface
   controller_manager
@@ -9,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
   hardware_interface
   nav_msgs
-  plubinlib
+  pluginlib
   realtime_tools
   roscpp
   rosgraph_msgs
