@@ -1,4 +1,4 @@
-## Ackermann Steerubg Controller [![Build Status](https://travis-ci.org/MoriKen254/ackermann_steering_controller_isolated.svg?branch=kinetic-devel)](https://travis-ci.org/MoriKen254/ackermann_steering_controller_isolated) 
+## Ackermann Steering Controller ##
 
 Controller for a ackermann steering drive mobile base. 
 
