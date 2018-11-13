@@ -23,7 +23,7 @@
   <depend>tf</depend>
 
   <build_depend>pluginlib</build_depend>
-  <build_depend>urdf</build_depend>
+  <build_depend>urdf_parser</build_depend>
 
   <exec_depend>pluginlib</exec_depend>
   <exec_depend>urdf</exec_depend>
